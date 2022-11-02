@@ -1,0 +1,67 @@
+body{
+    background-color: aliceblue ;
+    font-family: 'robot', sans-serif;
+}
+
+h1{
+    color: black;
+    font-family: 'Anton', sans-serif;
+
+}
+
+img{
+    width: 500px;
+    height: auto;
+    
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+}
+
+style{
+    float: auto;
+    right: auto;
+}
+
+div{
+    text-align: center;
+
+}
+
+
+
+
+
+*{box-sizing:border-box;}
+
+		.container{
+			width:95%;
+			max-width:900px;
+			padding:32px 64px;
+			margin:auto;
+		}
+
+		.social{
+			width:48px;
+			position:fixed;
+			top:50px;
+			right:0;
+		}
+
+		
+
+		.social{
+			
+			top:50%;
+			height:205px;
+			margin-top:-100px;
+		}
+.imgl{
+    width: 140px;
+    height: auto;
+}
+
+button{
+    color: brown;
+}
